@@ -1,0 +1,32 @@
+Gambler's Hand (3rd-level conjuration)
+
+Casting Time: 1 action
+Range: 20ft
+Components: V, S, M (a deck of cards)
+Duration: Concentration, up to 2 minutes
+
+Per turn, you can throw up to five spectral cards at enemie(s) you can see* for an action, and you may hold up to five cards in your spell hold (except jokers). Roll for each card a d20+prof to determine rank, a d20+dex to attack, and a d4 to determine suit. Jokers are wilds (any rank and suit). Nat 20 Jokers make all cards deal max damage/effect.
+
+You may specify if a card sticks to a target (apply effect) and disappears or slashes at the target, dealing 1d4 (numbers), 1d6 (face cards), 1d8 (aces), or 1d10 (jokers). When you throw the cards, they magically shine brighter with a better poker hand and gain a corresponding effect.
+
+Rank. 1-=no card, 2-10 rank, 11-12 J, 13-14 Q, 15-16 K, 17-19 A, 20+ Joker
+
+1) Hearts: The target may gain 1d4 thp. Undead take damage instead.
+2) Diamonds: The target may gain until the end of their next turn (max of 3; no mult).
+3) Clubs: This card's attack roll has advantage.
+4) Spades: Upgrade the die of this card.
+
+Royal flush: straight flush + 3x damage/thp
+Five of a kind: four kind + 2x damage/thp
+Straight flush: straight + flush 
+Four of a kind: three kind + 10ft
+Full house: two pair + 10spd till end next turn (self or target)
+Flush: homing cards (still roll, no line of sight needed)
+Straight: stunned until end next turn
+Three of a kind: pair + 10ft
+Two pair: blind till end next turn
+Pair: +10ft
+
+Bonus action to materialize a card (except joker) to save for next elixir. This card(s) still counts in your spell hold.
+
+At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, add a hit die to each card for each level above 1st.
